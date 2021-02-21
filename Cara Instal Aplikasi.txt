@@ -1,0 +1,12 @@
+
+1. Jika Database tidak connect , Silahkan Anda Sesuaikan Hostname Server Anda 
+   Buka Folder : *Code crud/Config.php* Dan *code crud/config-database.php* ( Lakukan Perubahan Hostname Server )
+
+2. Buka web browser kalian kemudian akses url : localhost/input%20data%20siswa/
+   Untuk membuka aplikasi nya ....
+
+   #Login Default
+    Username : admin
+    Password : admin
+
+#Jawa-Ngoding
